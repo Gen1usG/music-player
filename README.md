@@ -24,4 +24,4 @@
 ## 技术栈关键字
 - JavaScript、jQuery、响应式
 
-**预览链接**：https://weirongab.github.io/music-player/index.html
+**预览链接**：https://gen1usg.github.io/music-player/
