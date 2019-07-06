@@ -39,7 +39,7 @@ section,body,html {
   right: -10px;
   top: -10px;
   bottom: -10px;
-  background: url(http://cloud.hunger-valley.com/music/public_tuijian_spring.jpg-big) center center no-repeat;
+  background: url(https://cloud.hunger-valley.com/music/public_tuijian_spring.jpg-big) center center no-repeat;
   background-size: cover;
   filter: blur(4px);
 }
@@ -73,7 +73,7 @@ figure {
 
   width: 47vh;
   height: 47vh;
-  background: url(http://cloud.hunger-valley.com/music/public_tuijian_spring.jpg-big) center center no-repeat;
+  background: url(https://cloud.hunger-valley.com/music/public_tuijian_spring.jpg-big) center center no-repeat;
   background-size: cover;
 }
 
